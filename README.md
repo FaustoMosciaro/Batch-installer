@@ -21,7 +21,7 @@ Script `.bat` per installare automaticamente i software essenziali in base alla 
 
 
 📥 Download
-Scarica l'intero pacchetto già pronto per l'uso cliccando qui:
+Scarica l'intero pacchetto, oppure solo i pacchetti che ti servono, già pronti per l'uso cliccando qui:
 
 ➡️
 
