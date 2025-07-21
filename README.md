@@ -23,7 +23,7 @@ Script `.bat` per installare automaticamente i software essenziali in base alla 
 📥 Download
 Scarica l'intero pacchetto, oppure solo i pacchetti che ti servono, già pronti per l'uso cliccando qui:
 
-➡️
+➡️https://github.com/FaustoMosciaro/Batch-installer/releases/tag/v1.0
 
 ⚠️ Assicurati di estrarre tutto il contenuto prima di eseguire gli script, altrimenti alcuni comandi potrebbero non funzionare correttamente.
 
