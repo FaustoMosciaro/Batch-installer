@@ -24,3 +24,4 @@ Scarica l'intero pacchetto, oppure solo i pacchetti che ti servono, già pronti 
 
 ⚠️ Assicurati di estrarre tutto il contenuto prima di eseguire gli script, altrimenti alcuni comandi potrebbero non funzionare correttamente.
 
+Se vuoi altri programmi nei vari batch chidimelo pure e te ne fornirò uno personalizzato secondo le tue esigenze!
