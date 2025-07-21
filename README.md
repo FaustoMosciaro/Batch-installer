@@ -16,9 +16,6 @@ Script `.bat` per installare automaticamente i software essenziali in base alla 
 
 ⚠️ **Richiede Windows 10 o 11 con [winget](https://learn.microsoft.com/it-it/windows/package-manager/winget/)** installato e aggiornato.
 
-## 📦 Screenshot
-![Preview](readme-assets/preview.png)
-
 
 📥 Download
 Scarica l'intero pacchetto, oppure solo i pacchetti che ti servono, già pronti per l'uso cliccando qui:
