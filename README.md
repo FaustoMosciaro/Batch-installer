@@ -18,3 +18,12 @@ Script `.bat` per installare automaticamente i software essenziali in base alla 
 
 ## 📦 Screenshot
 ![Preview](readme-assets/preview.png)
+
+
+📥 Download
+Scarica l'intero pacchetto già pronto per l'uso cliccando qui:
+
+➡️
+
+⚠️ Assicurati di estrarre tutto il contenuto prima di eseguire gli script, altrimenti alcuni comandi potrebbero non funzionare correttamente.
+
